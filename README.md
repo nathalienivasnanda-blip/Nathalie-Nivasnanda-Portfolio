@@ -1,8 +1,13 @@
-# Welcome!
-This repository contains my technical writing samples.
+# Nathalie Nivasnada's Technical Writing Portfolio
+Hello and welcome to my portfolio! My name is Nathalie, and having had over 5 years of technical writing experience, I specialize in creating, editing and managing technical content.
 
-### Under development
-Right now, this is really nothing special. However, I intend to improve this example so people can use it as a starting point.
+### Overview
+This repository serves as a collection of my technical writing samples. Here, you'll find some of work showcasing my documentation abilities.
 
-## Publishing this site to the web via Netlify
-The [docs-basic-portfolio](https://github.com/bobby-pancakes/basic-portfolio) repository is a companion to this one. It details how to get a simple HTML and CSS website live on the internet via Netlify.
+Please note: I can provide more writing samples upon request.
+
+## Contact Me
+If you're interested in my work and would like to get in touch, you can reach me at:
+* Email: nathalie.nivasnanda@gmail.com
+* LinkedIn: [www.linkedin.com/in/nathalie-nivasnanda](https://www.linkedin.com/in/nathalie-nivasnanda/)
+Thank you for visiting my portfolio!
